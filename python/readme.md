@@ -89,7 +89,7 @@ Run the following command in your terminal to install the godirect module for US
 
 Some Linux distributions will not include all of the tools required by the godirect module and its dependencies. If you see errors when you run the `pip3` install, you might need to first install the two packages as shown below, before trying again:
 
-`sudo apt install libusb1.0.0`
+`sudo apt install libusb-1.0.0`
 
 `sudo apt install libudev-dev`
 
